@@ -1,0 +1,6 @@
+{
+  "name": "Naveed Signature Stich",
+  "description": "Bespoke tailoring, bridal wear, formal fitting, and custom designs with server-validated forms, secure admin login, spam protection, booking ID generation, email notifications, and unified Supabase/Firestore persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
